@@ -3,7 +3,7 @@ console.log("welcome to spotify");
 
 
 let songindex = 0;
-let audioelement = new Audio('1.mp3');
+let audioelement = new Audio('songs/1.mp3');
 
 let masterplay = document.getElementById('masterplay');
 
